@@ -9,8 +9,6 @@ Beside fulfilling project tasks you can also present your abilities in terms of:
 
 For this purpose, the resulting source code should be available for us to review (not only compiled code, but all sources too).
 
-Same goes for JS framework - we use for our projects Angular (and we suggest it for you too), but if you want to use another one - no problem! You're fed up with all the JS frameworks? Seeing another Model-View-SmartThingy makes you want to run away crying loud and because of that you prefer Vanilla JS solutions? Show us how you roll! 
-
 Please explain every choice you make on the way and place all arguments for the way of development you prefer. Even if your development approach is vastly different that our own, your accomplishment still can be valuable to us and use of different tools or technology won't disqualify you. Just provide us with your context, so the more we know, the better results from review.
 
 Whenever task description or provided pictures does not provide enough information about any aspect of implementation, we dare you to spot it, describe and make a decision on your own (with additional reasoning for chosen approach). If you don't feel competent enough, you can always ask us about details.
